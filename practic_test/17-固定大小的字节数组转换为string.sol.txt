@@ -1,0 +1,13 @@
+pragma solidity ^0.4.24;
+
+//固定大小的字节数组转换为字符串
+contract Demo {
+    bytes6 public name = 0x191919101010;
+    function bytes6ToString ()constant returns (string){
+        bytes memory name2 = new bytes(name.length);
+        for (uint i=0;i<name.length;i++){
+            name2[i] = name[i];
+        }
+        return string(name2);
+    }
+}

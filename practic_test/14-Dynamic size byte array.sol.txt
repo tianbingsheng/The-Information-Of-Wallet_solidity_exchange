@@ -1,0 +1,44 @@
+pragma solidity ^0.4.24;
+
+//动态大小的字节数组
+//bytes动态字节数组
+contract Demo {
+​    
+    string public name = "田炳生" ;
+    function getNameLength ()constant returns(uint){
+        //转换成动态大小的字节数组,返回字符串的长度
+        //数组就有length的属性
+       return  bytes(name).length;
+    }
+    
+    //修改字符串的内容
+    function modifyName (){
+        bytes(name)[0] = 'K' ;
+    }
+    //字符串转换为字节数组
+    function stringToBytes() constant returns(bytes){
+        return bytes(name);
+    }
+    
+      //初始化一个两个字节空间的字节数组
+        bytes public name = new bytes(2);
+       
+       //返回动态字节数组的长度
+        function getNameLength ()constant returns(uint){
+            return name.length;
+        }
+        
+        //修改动态字节数组的长度
+        function modifyNameLength(uint length){
+            name.length = length;
+        }
+        
+        //设置数据
+        function setNameIndexData (uint index,bytes1 data){
+            name[index] = data ;
+        }
+        //动态大小字节数组进行添加元素
+        function addElement(bytes1 data){
+            name.push(data);
+        }
+}

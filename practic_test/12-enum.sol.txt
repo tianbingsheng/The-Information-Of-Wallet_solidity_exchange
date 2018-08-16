@@ -1,0 +1,27 @@
+pragma solidity ^0.4.24;
+
+//枚举类型
+//枚举类型底层会默认进行数据分配uint整型数值;
+contract Demo {
+    enum ActionChoices {
+        ActionChoicesGoLeft,
+        ActionChoicesGoRight,
+        ActionChoicesGoStraight,
+        ActionChoicesSitStill
+    }
+    
+    ActionChoices _choise ;
+    ActionChoices defaultchoices = ActionChoices.ActionChoicesGoLeft;
+    
+    function setActionChoice(ActionChoices choice)public{
+        _choise = choice ;
+    }
+    
+    function getChoice()public constant returns(ActionChoices){
+        return _choise ;
+    }
+    
+    function getDefaultActionChoice ()public constant returns(ActionChoices){
+        return defaultchoices ;
+    }
+}
