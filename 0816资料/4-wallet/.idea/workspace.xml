@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a2a2160-e074-47cf-80cb-0e9a22396fbe" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1754440564">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4-wallet/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/4-wallet/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/@types/events/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/@types/formidable/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/any-promise/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/asn1.js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/bl/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/block-stream/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/brorand/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/browserify-aes/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/browserify-cipher/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/browserify-des/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/browserify-rsa/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/browserify-sha3/benchmark/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/browserify-sha3/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/browserify-sign/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/buffer-alloc-unsafe/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/buffer-alloc/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/buffer-crc32/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/buffer-fill/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/buffer-to-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/buffer-xor/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/cache-content-type/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/cipher-base/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/co-body/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/condense-newlines/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/config-chain/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/consolidate/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/cookiejar/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/cookies/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/cors/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/create-ecdh/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/create-hash/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/create-hmac/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/crypto-browserify/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/decompress-response/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/decompress-tar/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/decompress-tarbz2/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/decompress-tarbz2/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/decompress-targz/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/decompress-unzip/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/decompress-unzip/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/decompress-unzip/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/decompress/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/des.js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/diffie-hellman/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/dom-walk/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/duplexer3/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/editorconfig/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/editorconfig/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ejs/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/elliptic/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/error-inject/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/eth-lib/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ethjs-unit/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ethjs-unit/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/evp_bytestokey/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/express/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/express/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/express/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/express/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/express/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/express/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/express/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/fd-slicer/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/finalhandler/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/for-each/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/formidable/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/fs-constants/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/fs-promise/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/get-paths/node_modules/fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/get-paths/node_modules/jsonfile/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/get-paths/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/global/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/got/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/has-symbol-support-x/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/has-to-string-tag-x/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/hash.js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/hmac-drbg/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/http-assert/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/http-https/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/inflation/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/is-callable/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/is-function/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/is-generator-function/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/is-hex-prefixed/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/is-natural-number/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/is-object/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/is-plain-obj/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/is-retry-allowed/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/is-whitespace/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/isurl/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/js-beautify/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/js-sha3/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/jsonfile/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/keccakjs/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/keygrip/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-body/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-compose/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-convert/node_modules/koa-compose/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-convert/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-is-json/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-router/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-router/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-router/node_modules/koa-compose/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-router/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-router/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-send/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-static/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-static/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-views/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-views/node_modules/koa-send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-views/node_modules/koa-send/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa-views/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/koa/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/lowercase-keys/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/make-dir/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/md5.js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/miller-rabin/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/mimic-response/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/min-document/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/minimalistic-assert/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/minimalistic-crypto-utils/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/mkdirp-promise/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/mock-fs/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/mout/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/mz/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/nano-json-stream-parser/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/number-to-bn/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/number-to-bn/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/oboe/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/only/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/p-cancelable/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/p-timeout/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/parse-asn1/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/parse-headers/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/pbkdf2/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/pend/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/pretty/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/process/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/proto-list/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/public-encrypt/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/query-string/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/randombytes/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/randomfill/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/randomhex/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/resolve-path/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ripemd160/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/scrypt.js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/scrypt/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/scryptsy/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/seek-bzip/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/servify/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/sha.js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/sha3/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/sigmund/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/simple-concat/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/simple-get/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/strict-uri-encode/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/strip-dirs/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/strip-hex-prefix/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/swarm-js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/tar-stream/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/tar.gz/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/tar.gz/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/thenify-all/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/thenify/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/through/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/timed-out/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/to-buffer/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/trim/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/typedarray-to-buffer/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/unbzip2-stream/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/unbzip2-stream/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/unbzip2-stream/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/underscore/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/universalify/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/urijs/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/url-parse-lax/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/url-set-query/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/url-to-options/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/utf8/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-bzz/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-core-helpers/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-core-method/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-core-promievent/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-core-requestmanager/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-core-subscriptions/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-core/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-eth-abi/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-eth-abi/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-eth-accounts/node_modules/eth-lib/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-eth-accounts/node_modules/uuid/benchmark/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-eth-accounts/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-eth-accounts/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-eth-contract/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-eth-iban/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-eth-iban/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-eth-personal/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-eth/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-net/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-providers-http/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-providers-ipc/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-providers-ws/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-shh/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-utils/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3-utils/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/web3/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/websocket/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/xhr-request-promise/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/xhr-request/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/xhr/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/xhr2-cookies/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/yaeti/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/yauzl/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/node_modules/ylru/package.json" />
+      <path value="$PROJECT_DIR$/4-wallet/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2057" />
+    <option name="y" value="110" />
+    <option name="width" value="1360" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="4-wallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4-wallet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4-wallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4-wallet" type="462c0819:PsiDirectoryNode" />
+              <item name="4-wallet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4-wallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4-wallet" type="462c0819:PsiDirectoryNode" />
+              <item name="4-wallet" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a2a2160-e074-47cf-80cb-0e9a22396fbe" name="Default Changelist" comment="" />
+      <created>1534768862866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534768862866</updated>
+      <workItem from="1534768864024" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2057" y="110" width="1360" height="970" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24794623" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/4-wallet/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
